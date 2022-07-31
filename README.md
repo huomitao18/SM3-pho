@@ -7,8 +7,7 @@ F5运行
 碰撞前两位：  
 ![8](https://user-images.githubusercontent.com/104966988/182008553-2d733a3c-1355-45e3-9540-548d4f6e0238.png)  
 碰撞前三位：  
-![12](https://user-images.githubusercontent.com/104966988/182008575-92a5338c-0395-4acd-81f2-d3d1dbe2c131.png)  
-碰撞前四位：  
+![12](https://user-images.githubusercontent.com/104966988/182008575-92a5338c-0395-4acd-81f2-d3d1dbe2c131.png) 
 
 
 ## 每个人的具体贡献说明及贡献排序(复制的代码需要标出引用)
